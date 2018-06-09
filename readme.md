@@ -1,5 +1,5 @@
 # EE Explorer Extension
-@RAWSEQ
+[@RAWSEQ](https://twitter.com/RAWSEQ)
 
 for Windows (AuthHotKey)
 
